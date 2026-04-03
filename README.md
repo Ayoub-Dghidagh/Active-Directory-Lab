@@ -44,5 +44,5 @@ Windows Server 2019 Active Directory Home Lab Project
 - Troubleshooting Networking Issues  
 
 
-## 📌 Conclusion
-This lab helped me understand how to deploy and manage Active Directory in a controlled environment, including user administration and policy enforcement.
+## Conclusion
+This lab helped me understand how to deploy and manage Active Directory in a controlled environment .
